@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPiServer", "RPiServer\RPiServer.csproj", "{87A6EEAC-DE7F-42CD-8831-7442B4E768D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPiClient", "RPiClient\RPiClient.csproj", "{2DB679D2-5A10-4527-92F3-DAFB7CD20466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPiAsyncServer", "RPiAsyncServer\RPiAsyncServer.csproj", "{628F5A5C-D11E-4946-A5A5-24115882346F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPiAsyncClient", "RPiAsyncClient\RPiAsyncClient.csproj", "{0B26218D-3FD4-46A1-81D4-EF1A2BDABAC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87A6EEAC-DE7F-42CD-8831-7442B4E768D1}.Debug|x86.ActiveCfg = Debug|x86
+		{87A6EEAC-DE7F-42CD-8831-7442B4E768D1}.Debug|x86.Build.0 = Debug|x86
+		{87A6EEAC-DE7F-42CD-8831-7442B4E768D1}.Release|x86.ActiveCfg = Release|x86
+		{87A6EEAC-DE7F-42CD-8831-7442B4E768D1}.Release|x86.Build.0 = Release|x86
+		{2DB679D2-5A10-4527-92F3-DAFB7CD20466}.Debug|x86.ActiveCfg = Debug|x86
+		{2DB679D2-5A10-4527-92F3-DAFB7CD20466}.Debug|x86.Build.0 = Debug|x86
+		{2DB679D2-5A10-4527-92F3-DAFB7CD20466}.Release|x86.ActiveCfg = Release|x86
+		{2DB679D2-5A10-4527-92F3-DAFB7CD20466}.Release|x86.Build.0 = Release|x86
+		{628F5A5C-D11E-4946-A5A5-24115882346F}.Debug|x86.ActiveCfg = Debug|x86
+		{628F5A5C-D11E-4946-A5A5-24115882346F}.Debug|x86.Build.0 = Debug|x86
+		{628F5A5C-D11E-4946-A5A5-24115882346F}.Release|x86.ActiveCfg = Release|x86
+		{628F5A5C-D11E-4946-A5A5-24115882346F}.Release|x86.Build.0 = Release|x86
+		{0B26218D-3FD4-46A1-81D4-EF1A2BDABAC9}.Debug|x86.ActiveCfg = Debug|x86
+		{0B26218D-3FD4-46A1-81D4-EF1A2BDABAC9}.Debug|x86.Build.0 = Debug|x86
+		{0B26218D-3FD4-46A1-81D4-EF1A2BDABAC9}.Release|x86.ActiveCfg = Release|x86
+		{0B26218D-3FD4-46A1-81D4-EF1A2BDABAC9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
